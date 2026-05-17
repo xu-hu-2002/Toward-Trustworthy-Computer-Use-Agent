@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://huggingface.co/papers/XXXX.XXXXX"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Paper-yellow" alt="Hugging Face"></a>
+  <a href="Toward-Trustworthy-Computer-Use-Agents-Trust-Boundaries-Formal-Analysis-Evaluation-Gaps-and-Governance.pdf"><img src="https://img.shields.io/badge/Preprint-PDF-red?logo=adobeacrobatreader&logoColor=white" alt="Preprint PDF"></a>
 </p>
 
 
