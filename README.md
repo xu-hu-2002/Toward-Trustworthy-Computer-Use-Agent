@@ -1,5 +1,14 @@
 # <img src="figures/koala.png" alt="koala" width="50" height="50" /> Toward Trustworthy Computer-Use Agents: Trust Boundaries, Formal Analysis, Evaluation Gaps, and Governance
 
+<p align="center">
+  <em>University of California, Davis &nbsp;·&nbsp; The University of Texas at Dallas</em>
+</p>
+
+<p align="center">
+  <a href="https://huggingface.co/papers/XXXX.XXXXX"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Paper-yellow" alt="Hugging Face"></a>
+</p>
+
+
 <p align="center"><img src="figures/case_study.png" alt="Figure 1: Case study" width="1000" /></p>
 
 <p align="center"><em>Figure 1. Running case: Alice’s CUA processes reimbursement emails. A fake receipt’s accessibility-tree injection passes the OCR-
