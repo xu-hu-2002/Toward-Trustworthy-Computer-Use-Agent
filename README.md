@@ -5,7 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="Toward-Trustworthy-Computer-Use-Agent.pdf"><img src="https://img.shields.io/badge/Preprint-PDF-red?logo=adobeacrobatreader&logoColor=white" alt="Preprint PDF"></a>
+  <a href="Toward-Trustworthy-Computer-Use-Agent.pdf">
+    <img src="https://img.shields.io/badge/Preprint-PDF-red?logo=adobeacrobatreader&logoColor=white" alt="Preprint PDF">
+  </a>
+  <a href="https://doi.org/10.13140/RG.2.2.19686.79686">
+    <img src="https://img.shields.io/badge/ResearchGate-Preprint-00CCBB?logo=researchgate&logoColor=white" alt="ResearchGate">
+  </a>
 </p>
 
 <p align="center"><img src="figures/case_study.png" alt="Figure 1: Case study" width="1000" /></p>
@@ -28,6 +33,20 @@ consequences, persist, amplify, and are governed.</em></p>
 
 ---
 
+## 📑 Citation
+ 
+If you find this survey or repository useful, please cite our work:
+ 
+```bibtex
+@misc{trustworthy_cua_2026,
+  title        = {Toward Trustworthy Computer-Use Agents: Trust Boundaries, Formal Analysis, Evaluation Gaps, and Governance},
+  author       = {Xu Hu, Haoming Li, Sabbir Ahmed, Md Nahiyan Uddin, Qiannan Li, Jessica Ouyang, Latifur Khan, Feng Chen and Bingzhe Li},
+  year         = {2026},
+  month        = {May},
+  doi          = {10.13140/RG.2.2.19686.79686},
+  url          = {https://doi.org/10.13140/RG.2.2.19686.79686},
+}
+```
 ## 🤝 Contributing
 
 Contributions are very welcome! Please feel free to open an issue or a pull request to add new papers on trustworthy computer-use agents, correct information, or suggest new sections.
